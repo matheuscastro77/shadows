@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://shadows-nine.vercel.app/
+[Shadows](https://shadows-nine.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
